@@ -4,6 +4,7 @@ const About = () => {
   return (
     <div>
       <h3>This is krishna from KNB Techs</h3>
+      <h2>Krishna ok done</h2>
       <div>
         <h3>Hello Everyone how are you</h3>
         <p>
