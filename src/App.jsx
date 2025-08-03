@@ -8,6 +8,7 @@ const App = () => {
       <About />
       <Products></Products>
       <h3>Krishna nannnnnnnn</h3>
+      <h3>Krishna Hello</h3>
     </div>
   );
 };
