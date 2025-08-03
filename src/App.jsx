@@ -8,8 +8,7 @@ const App = () => {
       <About />
       <Products></Products>
       <h3>Krishna nannnnnnnn</h3>
-      <h5>Hey hey from about feature branch</h5>
-      <h5>Hey hey from about master branch</h5>
+      <h5>Hey hey from about feature branch hell</h5>
       <h3>Krishna Hello</h3>
     </div>
   );
