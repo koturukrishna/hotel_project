@@ -7,6 +7,7 @@ const App = () => {
     <div>
       <About />
       <Products></Products>
+      <h3>Krishna nannnnnnnn</h3>
     </div>
   );
 };
